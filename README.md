@@ -1,5 +1,4 @@
 ![Hi, I'm Matias](./Assets/aurora.jpg)
-<!-- https://github.com/mruggeroni/mruggeroni/blob/main/ -->
 
 <h2 align="center" >
     Full Stack Developer 💻 with passion 💛 and creativity 🎨
@@ -27,6 +26,7 @@ Mi nombre es Matías, y soy 𝐃𝐞𝐬𝐚𝐫𝐫𝐨𝐥𝐥𝐚𝐝𝐨𝐫
     <code><img width="100rem" height="50rem" src="./Logos/nodemonio-ar21.svg"></code>
     <code><img width="100rem" height="50rem" src="./Logos/expressjs-ar21.svg"></code>
     <code><img width="100rem" height="50rem" src="./Logos/reactjs-ar21.svg"></code>
+    <code><img width="100rem" height="50rem" src="./Logos/redux.svg"></code>
     <code><img width="100rem" height="50rem" src="./Logos/js_webpack-ar21.svg"></code>
     <code><img width="100rem" height="50rem" src="./Logos/stripe-ar21.svg"></code>
     <code><img width="100rem" height="50rem" src="./Logos/jquery-ar21.svg"></code>
