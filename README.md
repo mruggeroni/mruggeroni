@@ -10,7 +10,7 @@
 ## ⭐ Languages and Tools:
 
 <br />
-<div background="grey" >
+<div background="grey" align="center" >
     <code><img width="100rem" height="50rem" src="./Logos/w3_html5-ar21.svg"></code>
     <code><img width="100rem" height="50rem" src="./Logos/w3_css-ar21.svg"></code>
     <code><img width="100rem" height="50rem" src="./Logos/javascript-horizontal.svg"></code>
