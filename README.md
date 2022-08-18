@@ -1,7 +1,7 @@
 ![Hi, I'm Matias](./Assets/aurora.jpg)
 <!-- https://github.com/mruggeroni/mruggeroni/blob/main/ -->
 
-<h2 align="center">
+<h2 align="center" >
     Full Stack Developer 💻 with passion 💛 and creativity 🎨
 </h2>
 
@@ -34,15 +34,15 @@
 ## 📌 My proyects:
 
 <br />
-<p>
+<p align="center" >
     <a href="https://proyecto-final-henry.vercel.app/" >
-        <img width="340rem" height="200rem" src="./Images/PF-1.JPG">
+        <img width="360rem" height="210rem" src="./Images/PF-1.JPG">
     </a>
     <a href="https://proyecto-final-henry.vercel.app/" >
-        <img width="340rem" height="200rem" src="./Images/PF-2.JPG">
+        <img width="360rem" height="210rem" src="./Images/PF-2.JPG">
     </a>
     <a href="https://proyecto-final-henry.vercel.app/" >
-        <img width="340rem" height="200rem" src="./Images/PF-3.JPG">
+        <img width="360rem" height="210rem" src="./Images/PF-3.JPG">
     </a>
 </p>
 
