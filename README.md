@@ -7,6 +7,10 @@
 
 &nbsp;
 
+Mi nombre es Matías, y soy 𝐃𝐞𝐬𝐚𝐫𝐫𝐨𝐥𝐥𝐚𝐝𝐨𝐫 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 💻 enfocado en 𝐁𝐚𝐜𝐤-𝐄𝐧𝐝. Estudié 𝘐𝘯𝘨𝘦𝘯𝘪𝘦𝘳𝘪́𝘢 𝘘𝘶𝘪́𝘮𝘪𝘤𝘢 🧪 durante algún tiempo y, estando a pocos exámenes para finalizar, descubrí que no solo me apasiona las matemáticas y resolver problemas desafiantes, sino que además se pueden combinar dentro del enorme mundo de la programación. Por esta razón decidí aventurarme por el desarrollo web para comenzar este nuevo enfoque en mi carrera profesional.
+
+&nbsp;
+
 ## ⭐ Languages and Tools:
 
 <br />
