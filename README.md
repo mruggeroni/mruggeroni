@@ -36,13 +36,13 @@
 <br />
 <p>
     <a href="https://proyecto-final-henry.vercel.app/" >
-        <img width="500rem" height="250rem" src="./Images/PF-1.JPG">
+        <img width="340rem" height="200rem" src="./Images/PF-1.JPG">
     </a>
     <a href="https://proyecto-final-henry.vercel.app/" >
-        <img width="500rem" height="250rem" src="./Images/PF-2.JPG">
+        <img width="340rem" height="200rem" src="./Images/PF-2.JPG">
     </a>
     <a href="https://proyecto-final-henry.vercel.app/" >
-        <img width="500rem" height="250rem" src="./Images/PF-3.JPG">
+        <img width="340rem" height="200rem" src="./Images/PF-3.JPG">
     </a>
 </p>
 
