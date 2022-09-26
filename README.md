@@ -1,4 +1,4 @@
-![Hi, I'm Matias](./Assets/aurora.jpg)
+![Hi, I'm Matias](./Assets/aurora_perfil.jpg)
 
 <h2 align="center" >
     Full Stack Developer 💻 with passion 💛 and creativity 🎨
